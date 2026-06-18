@@ -2,6 +2,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VladiAkopyan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladiAkopyan&layout=compact&theme=github_dark)](https://github.com/VladiAkopyan/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VladiAkopyan&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VladiAkopyan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 - 🐱‍💻 **Python Developer** | HTML, CSS
