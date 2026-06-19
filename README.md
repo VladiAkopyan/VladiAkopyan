@@ -6,14 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladiAkopyan&layout=compact&theme=github_dark)](https://github.com/VladiAkopyan/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VladiAkopyan&theme=dark)](https://git.io/streak-stats)
 
-- 🐱‍💻 **Python Developer** | HTML, CSS
-
-- 🐱‍🚀 Building tools that make life easier 
-
-- 🐱‍👓 Always learning, always growing  
-
-- 🐱‍🏍 Open to collaboration and new ideas
-
 ## 🛠️ Technologies & Tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladiAkopyan)
