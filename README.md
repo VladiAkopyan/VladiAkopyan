@@ -1,11 +1,13 @@
 # 🤠🌹 Hi! I'm Vladi Akopyan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&random=false&width=500&lines=Python+Developer;Would+you+like+a+cup+of+coffee%3F;It's+always+summer+in+my+soul)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&random=false&width=500&lines=Python+And+CPP+Developer;Would+you+like+a+cup+of+coffee%3F;It's+always+summer+in+my+soul)](https://git.io/typing-svg)
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VladiAkopyan&show_icons=true&theme=radical" height="300">
     <img src="https://streak-stats.demolab.com/?user=VladiAkopyan&theme=dark" height="300">
-</p>
+</p> -->
+
+
 
 ## 🛠️ Technologies & Tools
 
